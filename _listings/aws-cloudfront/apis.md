@@ -27,7 +27,7 @@ apis:
   tags: Cloud
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/cloud/master/_listings/aws-cloudfront/action-getcloudfrontoriginaccessidentity-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/cloud/master/_listings/aws-cloudfront/action-getcloudfrontoriginaccessidentityconfig-get.md
 x-common:
 - type: x-analysis
   url: https://aws.amazon.com/cloudfront/reporting/
