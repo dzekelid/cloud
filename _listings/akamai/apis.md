@@ -34,15 +34,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/akamai/cloudlets-api-v2-policies-policyid-delete.md
-- name: Akamai API List Cloudlets Origin Versions
-  description: List Cloudlets Origin Versions
+- name: Akamai API Create a Cloudlets Origin Version
+  description: Create a Cloudlets Origin Version
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
   humanURL: https://akamai.com
   baseURL: https://developer.akamai.com//
   tags: Cloud
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/akamai/cloudlets-api-v2-origins-originid-versions-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/akamai/cloudlets-api-v2-origins-originid-versions-post.md
 x-common:
 - type: x-base
   url: https://api.ccu.akamai.com
