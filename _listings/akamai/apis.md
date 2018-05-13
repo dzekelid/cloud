@@ -25,15 +25,15 @@ modified: "2018-03-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/akamai/apis.yaml
 specificationVersion: "0.14"
 apis:
-- name: Akamai API Get Associated Properties for a Policy
-  description: Get Associated Properties for a Policy
+- name: Akamai API List Cloudlets Origins
+  description: List Cloudlets Origins
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
   humanURL: https://akamai.com
   baseURL: https://developer.akamai.com//
   tags: Cloud
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/akamai/cloudlets-api-v2-policyid-properties-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/akamai/cloudlets-api-v2-origins-get.md
 x-common:
 - type: x-base
   url: https://api.ccu.akamai.com
