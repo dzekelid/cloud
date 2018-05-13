@@ -1,8 +1,10 @@
 ---
 swagger: "2.0"
 info:
-  title: Stride
-  description: This service provides public API for the Stride.
+  title: Stride Get conversation history
+  description: "Authentication required, with scope participate:conversation\n\nThis
+    method returns messages after/before a given messageIDs or/and timestamps.\nIf
+    these parameters are omitted the method returns conversation\u2019s latest messages."
   version: 1.0.0
 host: api.atlassian.com
 basePath: /
