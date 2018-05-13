@@ -1,8 +1,11 @@
 ---
 swagger: "2.0"
 info:
-  title: Akamai Merged API
+  title: Akamai API List Schemas per Cloudlet
+  description: List Schemas per Cloudlet
   version: 1.0.0
+host: developer.akamai.com
+basePath: /
 schemes:
 - http
 produces:
@@ -16,7 +19,7 @@ paths:
       description: List Schemas per Cloudlet
       operationId: cloudletcode
       parameters:
-      - in: String
+      - in: query
         name: cloudletType
         description: The two- or three- letter code of the Cloudlet you want to view
           all schemas for
