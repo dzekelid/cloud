@@ -25,16 +25,43 @@ modified: "2018-03-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/akamai/apis.yaml
 specificationVersion: "0.14"
 apis:
-- name: Akamai API Update a Cloudlets Origin
-  description: Update a Cloudlets Origin
+- name: Akamai API Remove a Policy
+  description: Remove a Policy
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
   humanURL: https://akamai.com
   baseURL: https://developer.akamai.com//
   tags: Cloud
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/akamai/cloudlets-api-v2-origins-originid-put.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/akamai/cloudlets-api-v2-policies-policyid-delete.md
+- name: Akamai API List Cloudlets Origin Versions
+  description: List Cloudlets Origin Versions
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
+  humanURL: https://akamai.com
+  baseURL: https://developer.akamai.com//
+  tags: Cloud
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/akamai/cloudlets-api-v2-origins-originid-versions-get.md
 x-common:
+- type: x-base
+  url: https://api.ccu.akamai.com
+- type: x-blog
+  url: https://blogs.akamai.com
+- type: x-blog-rss
+  url: http://blogs.akamai.com/feeds.html
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/akamai-technologies
+- type: x-developer
+  url: https://developer.akamai.com/
+- type: x-email
+  url: open-developer@akamai.com
+- type: x-github
+  url: https://github.com/akamai
+- type: x-twitter
+  url: https://twitter.com/Akamai
+- type: x-website
+  url: https://akamai.com
 - type: x-base
   url: https://api.ccu.akamai.com
 - type: x-blog
