@@ -1,8 +1,11 @@
 ---
 swagger: "2.0"
 info:
-  title: Akamai Merged API
+  title: Akamai API List Cloudlets
+  description: List Cloudlets
   version: 1.0.0
+host: developer.akamai.com
+basePath: /
 schemes:
 - http
 produces:
@@ -16,7 +19,7 @@ paths:
       description: List Cloudlets
       operationId: cloudletid
       parameters:
-      - in: Number
+      - in: query
         name: cloudletId
         description: For GET operations, returns only policies for this particular
           cloudletId
