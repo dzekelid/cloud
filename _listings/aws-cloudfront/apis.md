@@ -28,15 +28,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/cloud/master/_listings/aws-cloudfront/action-updatecloudfrontoriginaccessidentity-get.md
-- name: AWS CloudFront API List Cloud Front Origin Access Identities
-  description: Lists origin access identities.
+- name: AWS CloudFront API Update Cloud Front Origin Access Identity
+  description: Update an origin access identity.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AmazonCloudFront.png
   humanURL: https://aws.amazon.com/cloudfront/
   baseURL: http:://{host}//
   tags: Cloud
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/aws-cloudfront/action-listcloudfrontoriginaccessidentities-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/aws-cloudfront/action-updatecloudfrontoriginaccessidentity-get.md
 x-common:
 - type: x-analysis
   url: https://aws.amazon.com/cloudfront/reporting/
