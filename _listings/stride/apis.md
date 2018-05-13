@@ -25,7 +25,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/cloud/master/_listings/stride/site-cloudid-conversation-conversationid-unarchive-put.md
-- name: Stride Get latest messages for conversation
+- name: Stride Get conversation roster
   description: Authentication required, with scope participate:conversation
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/atlassian-stride-logo.jpg
   humanURL: https://www.stride.com/
@@ -33,41 +33,8 @@ apis:
   tags: Cloud
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/stride/site-cloudid-conversation-conversationid-message-recent-get.md
-- name: Stride Get conversation history contextually
-  description: |-
-    Authentication required, with scope participate:conversation
-
-    This method returns messages after and/or before a given messageID including the message itself.
-    Default value for 'after' and 'before' query parameters is 0.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/atlassian-stride-logo.jpg
-  humanURL: https://www.stride.com/
-  baseURL: https://api.atlassian.com//
-  tags: Cloud
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/stride/site-cloudid-conversation-conversationid-message-messageid-context-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/stride/site-cloudid-conversation-conversationid-roster-get.md
 x-common:
-- type: x-authentication
-  url: https://developer.atlassian.com/cloud/stride/security/authentication/
-- type: x-blog
-  url: https://blog.stride.com/
-- type: x-buttons
-  url: https://developer.atlassian.com/cloud/stride/blocks/stride-button/
-- type: x-developer
-  url: https://developer.atlassian.com/cloud/stride/
-- type: x-getting-started
-  url: https://developer.atlassian.com/cloud/stride/getting-started/
-- type: x-pricing
-  url: https://www.stride.com/pricing
-- type: x-security
-  url: https://developer.atlassian.com/cloud/stride/security/security-overview/
-- type: x-support
-  url: https://www.stride.com/help-center
-- type: x-twitter
-  url: https://twitter.com/atlassianstride
-- type: x-website
-  url: https://www.stride.com/
 - type: x-authentication
   url: https://developer.atlassian.com/cloud/stride/security/authentication/
 - type: x-blog
