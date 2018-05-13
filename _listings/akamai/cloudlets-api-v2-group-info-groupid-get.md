@@ -1,8 +1,11 @@
 ---
 swagger: "2.0"
 info:
-  title: Akamai Merged API
+  title: Akamai API Get a Group
+  description: Get a Group
   version: 1.0.0
+host: developer.akamai.com
+basePath: /
 schemes:
 - http
 produces:
@@ -16,7 +19,7 @@ paths:
       description: Get a Group
       operationId: cloudletsapiv2groupinfogroupid
       parameters:
-      - in: Number
+      - in: query
         name: groupId
         description: For GET operations, returns only policies associated with the
           group ID entered
