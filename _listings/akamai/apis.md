@@ -34,15 +34,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/akamai/cloudlets-api-v2-policies-policyid-delete.md
-- name: Akamai API Update a Version Rule
-  description: Update a Version Rule
+- name: Akamai API List Associated Properties
+  description: List Associated Properties
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
   humanURL: https://akamai.com
   baseURL: https://developer.akamai.com//
   tags: Cloud
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/akamai/cloudlets-api-v2-policies-policyid-versions-version-rules-akaruleid-put.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/akamai/cloudlets-api-v2-properties-get.md
 x-common:
 - type: x-base
   url: https://api.ccu.akamai.com
