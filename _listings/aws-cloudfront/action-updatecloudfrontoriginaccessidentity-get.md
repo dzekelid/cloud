@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS CloudFront API
+  title: AWS CloudFront API Update Cloud Front Origin Access Identity
   version: 1.0.0
+  description: Update an origin access identity.
 schemes:
 - http
 produces:
@@ -10,7 +11,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=UpdateCloudFrontOriginAccessIdentity&k=1:
+  /?Action=UpdateCloudFrontOriginAccessIdentity:
     get:
       summary: ' Update Cloud Front Origin Access Identity '
       description: Update an origin access identity
