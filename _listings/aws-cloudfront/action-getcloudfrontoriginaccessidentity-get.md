@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS CloudFront API
+  title: AWS CloudFront API Get Cloud Front Origin Access Identity
   version: 1.0.0
+  description: Get the information about an origin access identity.
 schemes:
 - http
 produces:
@@ -10,7 +11,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=GetCloudFrontOriginAccessIdentity&k=1:
+  /?Action=GetCloudFrontOriginAccessIdentity:
     get:
       summary: ' Get Cloud Front Origin Access Identity '
       description: Get the information about an origin access identity
