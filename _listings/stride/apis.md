@@ -25,7 +25,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery/cloud/master/_listings/stride/site-cloudid-conversation-conversationid-unarchive-put.md
-- name: Stride Update conversation
+- name: Stride Archive conversation
   description: Authentication required, with scope manage:conversation
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/atlassian-stride-logo.jpg
   humanURL: https://www.stride.com/
@@ -33,7 +33,7 @@ apis:
   tags: Cloud
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/stride/site-cloudid-conversation-conversationid-patch.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/stride/site-cloudid-conversation-conversationid-archive-put.md
 x-common:
 - type: x-authentication
   url: https://developer.atlassian.com/cloud/stride/security/authentication/
