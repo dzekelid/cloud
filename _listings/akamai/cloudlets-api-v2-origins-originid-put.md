@@ -1,8 +1,11 @@
 ---
 swagger: "2.0"
 info:
-  title: Akamai Merged API
+  title: Akamai API Update a Cloudlets Origin
+  description: Update a Cloudlets Origin
   version: 1.0.0
+host: developer.akamai.com
+basePath: /
 schemes:
 - http
 produces:
@@ -16,7 +19,7 @@ paths:
       description: Update a Cloudlets Origin
       operationId: cloudletsapiv2originsoriginid
       parameters:
-      - in: String
+      - in: query
         name: originId
         description: Unique identifier for the origin
         type: string
