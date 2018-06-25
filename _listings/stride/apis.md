@@ -5,19 +5,19 @@ description: Stride is a cloud-based team business communication and collaborati
   tool, launched by Atlassian to replace the cloud-based version of HipChat. Stride
   software is available to download onto computers running Windows, Mac or Linux,
   as well as Android, iOS smartphones, and tablets
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/atlassian-stride-logo.jpg
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28142-stride.jpg
 x-kinRank: "8"
-x-alexaRank: "0"
+x-alexaRank: "40723"
 tags: Cloud
-created: "2018-06-17"
-modified: "2018-06-17"
+created: "2018-06-25"
+modified: "2018-06-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/stride/apis.md
 specificationVersion: "0.14"
 apis:
 - name: Stride Get conversation list for site
   x-api-slug: stride
   description: Authentication required, with scope participate:conversation
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/atlassian-stride-logo.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28142-stride.jpg
   humanURL: https://www.stride.com/
   baseURL: https://api.atlassian.com////site/{cloudId}/conversation
   tags: Messaging,Site, Cloud, Conversation
@@ -27,7 +27,7 @@ apis:
 - name: Stride Create conversation
   x-api-slug: stride
   description: Authentication required, with scope manage:conversation
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/atlassian-stride-logo.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28142-stride.jpg
   humanURL: https://www.stride.com/
   baseURL: https://api.atlassian.com////site/{cloudId}/conversation
   tags: Messaging,Site, Cloud, Conversation
@@ -37,7 +37,7 @@ apis:
 - name: Stride Send message to user
   x-api-slug: stride
   description: Authentication required, with scope participate:conversation
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/atlassian-stride-logo.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28142-stride.jpg
   humanURL: https://www.stride.com/
   baseURL: https://api.atlassian.com////site/{cloudId}/conversation/user/{userId}/message
   tags: Messaging,Site, Cloud, Conversation, User, User, Message
@@ -47,7 +47,7 @@ apis:
 - name: Stride Get conversation details
   x-api-slug: stride
   description: Authentication required, with scope participate:conversation
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/atlassian-stride-logo.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28142-stride.jpg
   humanURL: https://www.stride.com/
   baseURL: https://api.atlassian.com////site/{cloudId}/conversation/{conversationId}
   tags: Messaging,Site, Cloud, Conversation, Conversation
@@ -57,7 +57,7 @@ apis:
 - name: Stride Update conversation
   x-api-slug: stride
   description: Authentication required, with scope manage:conversation
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/atlassian-stride-logo.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28142-stride.jpg
   humanURL: https://www.stride.com/
   baseURL: https://api.atlassian.com////site/{cloudId}/conversation/{conversationId}
   tags: Messaging,Site, Cloud, Conversation, Conversation
@@ -67,7 +67,7 @@ apis:
 - name: Stride Archive conversation
   x-api-slug: stride
   description: Authentication required, with scope manage:conversation
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/atlassian-stride-logo.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28142-stride.jpg
   humanURL: https://www.stride.com/
   baseURL: https://api.atlassian.com////site/{cloudId}/conversation/{conversationId}/archive
   tags: Messaging,Site, Cloud, Conversation, Conversation, Archives
@@ -77,7 +77,7 @@ apis:
 - name: Stride Upload a file
   x-api-slug: stride
   description: Authentication required, with scope participate:conversation
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/atlassian-stride-logo.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28142-stride.jpg
   humanURL: https://www.stride.com/
   baseURL: https://api.atlassian.com////site/{cloudId}/conversation/{conversationId}/media
   tags: Messaging,Site, Cloud, Conversation, Conversation, Media
@@ -87,7 +87,7 @@ apis:
 - name: Stride Get a file
   x-api-slug: stride
   description: Authentication required, with scope participate:conversation
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/atlassian-stride-logo.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28142-stride.jpg
   humanURL: https://www.stride.com/
   baseURL: https://api.atlassian.com////site/{cloudId}/conversation/{conversationId}/media/{mediaId}
   tags: Messaging,Site, Cloud, Conversation, Conversation, Media, Media
@@ -99,7 +99,7 @@ apis:
   description: "Authentication required, with scope participate:conversation\n\nThis
     method returns messages after/before a given messageIDs or/and timestamps.\nIf
     these parameters are omitted the method returns conversation\u2019s latest messages."
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/atlassian-stride-logo.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28142-stride.jpg
   humanURL: https://www.stride.com/
   baseURL: https://api.atlassian.com////site/{cloudId}/conversation/{conversationId}/message
   tags: Messaging,Site, Cloud, Conversation, Conversation, Message
@@ -109,7 +109,7 @@ apis:
 - name: Stride Send a message to a conversation
   x-api-slug: stride
   description: Authentication required, with scope participate:conversation
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/atlassian-stride-logo.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28142-stride.jpg
   humanURL: https://www.stride.com/
   baseURL: https://api.atlassian.com////site/{cloudId}/conversation/{conversationId}/message
   tags: Messaging,Site, Cloud, Conversation, Conversation, Message
@@ -119,7 +119,7 @@ apis:
 - name: Stride Get latest messages for conversation
   x-api-slug: stride
   description: Authentication required, with scope participate:conversation
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/atlassian-stride-logo.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28142-stride.jpg
   humanURL: https://www.stride.com/
   baseURL: https://api.atlassian.com////site/{cloudId}/conversation/{conversationId}/message/recent
   tags: Messaging,Site, Cloud, Conversation, Conversation, Message, Recent
@@ -129,7 +129,7 @@ apis:
 - name: Stride Get message by id
   x-api-slug: stride
   description: Authentication required, with scope participate:conversation
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/atlassian-stride-logo.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28142-stride.jpg
   humanURL: https://www.stride.com/
   baseURL: https://api.atlassian.com////site/{cloudId}/conversation/{conversationId}/message/{messageId}
   tags: Messaging,Site, Cloud, Conversation, Conversation, Message, Message
@@ -143,7 +143,7 @@ apis:
 
     This method returns messages after and/or before a given messageID including the message itself.
     Default value for 'after' and 'before' query parameters is 0.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/atlassian-stride-logo.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28142-stride.jpg
   humanURL: https://www.stride.com/
   baseURL: https://api.atlassian.com////site/{cloudId}/conversation/{conversationId}/message/{messageId}/context
   tags: Messaging,Site, Cloud, Conversation, Conversation, Message, Message, Context
@@ -153,7 +153,7 @@ apis:
 - name: Stride Get conversation roster
   x-api-slug: stride
   description: Authentication required, with scope participate:conversation
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/atlassian-stride-logo.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28142-stride.jpg
   humanURL: https://www.stride.com/
   baseURL: https://api.atlassian.com////site/{cloudId}/conversation/{conversationId}/roster
   tags: Messaging,Site, Cloud, Conversation, Conversation, Roster
@@ -163,7 +163,7 @@ apis:
 - name: Stride Unarchive conversation
   x-api-slug: stride
   description: Authentication required, with scope manage:conversation
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/atlassian-stride-logo.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28142-stride.jpg
   humanURL: https://www.stride.com/
   baseURL: https://api.atlassian.com////site/{cloudId}/conversation/{conversationId}/unarchive
   tags: Messaging,Site, Cloud, Conversation, Conversation, Unarchive, Archives
@@ -176,7 +176,7 @@ apis:
     tool, launched by Atlassian to replace the cloud-based version of HipChat. Stride
     software is available to download onto computers running Windows, Mac or Linux,
     as well as Android, iOS smartphones, and tablets
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/atlassian-stride-logo.jpg
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28142-stride.jpg
   humanURL: https://www.stride.com/
   baseURL: https://api.atlassian.com//
   tags: Cloud
@@ -190,6 +190,8 @@ x-common:
   url: https://blog.stride.com/
 - type: x-buttons
   url: https://developer.atlassian.com/cloud/stride/blocks/stride-button/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/stride
 - type: x-developer
   url: https://developer.atlassian.com/cloud/stride/
 - type: x-getting-started
