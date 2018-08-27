@@ -1,0 +1,1572 @@
+{
+	"name": "Streadata.io API Gallery - Cloud",
+	"description": "This is a repository of cloud APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/cloud.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://cloud.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Deltacloud",
+			"x-api-slug": "deltacloud",
+			"description": "Home page of The Apache Software Foundation",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/37-deltacloud.jpg",
+			"humanURL": "http://deltacloud.apache.org/",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/deltacloud/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Restlet",
+			"x-api-slug": "restlet",
+			"description": "Restlet is a web API platform vendor, pioneer of RESTful web APIs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/90-restlet.jpg",
+			"humanURL": "https://restlet.com/",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/restlet/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Twilio",
+			"x-api-slug": "twilio",
+			"description": "Cloud communications platform for building SMS, Voice & Messaging applications on an API built for global scale. Get started with a free trial.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg",
+			"humanURL": "http://www.twilio.com",
+			"baseURL": "https://api.twilio.com//2010-04-01/",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/twilio/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Apple",
+			"x-api-slug": "apple",
+			"description": "https://t.co/jw2s2L0RLt",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/155-apple.jpg",
+			"humanURL": "http://www.apple.com/itunes/affiliates/resources/documentation/itunes-store-web-service-search-api.html",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/apple/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AT&T Dev Program",
+			"x-api-slug": "att-dev-program",
+			"description": "AT&T Official Site. Premium entertainment, the latest cell phones & tablets, unlimited data plans, and high-speed internet. Join the nations best network today!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/156-at&t-dev-program.jpg",
+			"humanURL": "http://att.com",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/att-dev-program/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Diffbot",
+			"x-api-slug": "diffbot",
+			"description": "Never write another web scraper. Diffbot automates web data extraction from any website using AI, computer vision, &amp; machine learning.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/181-diffbot.jpg",
+			"humanURL": "http://www.diffbot.com/our-apis/follow/",
+			"baseURL": "https:////",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/diffbot/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Heroku",
+			"x-api-slug": "heroku",
+			"description": "Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/211-heroku.jpg",
+			"humanURL": "http://heroku.com",
+			"baseURL": "https://api.heroku.com//",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/heroku/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "HP",
+			"x-api-slug": "hp",
+			"description": "Learn about HP laptops, pc desktops, printers, accessories and more at the Official HP Website",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/212-hp.jpg",
+			"humanURL": "http://map.hpl.hp.com",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/hp/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Iron",
+			"x-api-slug": "iron",
+			"description": "Iron.io provides massively scalable cloud application services. Available on multiple platforms and clouds, Iron.io products eliminate the need to worry about managing and scaling infrastructure, letting developers focus on building great applications.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/217-iron-io.jpg",
+			"humanURL": "http://www.iron.io",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/iron/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Rackspace",
+			"x-api-slug": "rackspace",
+			"description": "Host on our dedicated or cloud infrastructure or through one of our partners. Leverage our expertise to run fast and lean. We offer web, app or email hosting, data services and managed security solutions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/241-rackspace.jpg",
+			"humanURL": "http://www.rackspace.com/",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/rackspace/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Tropo",
+			"x-api-slug": "tropo",
+			"description": "Hosted Voice and SMS API",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/264-tropo.jpg",
+			"humanURL": "https://www.tropo.com/",
+			"baseURL": "https://api.tropo.com//v1/",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/tropo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "46elks",
+			"x-api-slug": "46elks",
+			"description": "Adding SMS and Voice to your application or service should be easy. Phone calls, SMS & MMS in one easy API. For developers, built by developers.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/289-46elks.jpg",
+			"humanURL": "http://46elks.com/",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/46elks/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Aculab Cloud",
+			"x-api-slug": "aculab-cloud",
+			"description": "Aculab offers a comprehensive range of telephony platforms - cloud-based, software-based, hardware-based - and a wide range of gateways.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/305-aculab-cloud.jpg",
+			"humanURL": "https://www.aculab.com/",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/aculab-cloud/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SugarSync",
+			"x-api-slug": "sugarsync",
+			"description": "SugarSync is a cloud file sharing, file sync and online backup service that is simple, powerful and easy to use. Unlike Dropbox, SugarSync enables you to back up your existing folder structure. Try it for FREE for 30 days and get started today!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/488-sugarsync-.jpg",
+			"humanURL": "http://sugarsync.com",
+			"baseURL": "https://api.sugarsync.com//",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/sugarsync/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Terremark vCloud Express",
+			"x-api-slug": "terremark-vcloud-express",
+			"description": "Verizon Enterprise technology solutions innovate how you do   business with industry leading cloud services, mobility   solutions, security, other managed IT solutions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/496-terremark-vcloud-express.jpg",
+			"humanURL": "http://vcloudexpress.terremark.com/",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/terremark-vcloud-express/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CloudApp",
+			"x-api-slug": "cloudapp",
+			"description": "CloudApp is a video and image sharing platform for professionals. Record your screen in HD, markup a screenshot, or produce a beautiful GIF and instantly share it in your favorite tools.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/559-cloudapp.jpg",
+			"humanURL": "http://getcloudapp.com/",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/cloudapp/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Elastic Email",
+			"x-api-slug": "elastic-email",
+			"description": "Elastic Email is an all-in-one email delivery platform. Send beautiful newsletters or transactional emails in a better way.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/586-elastic-email.jpg",
+			"humanURL": "http://elasticemail.com",
+			"baseURL": "http://api.elasticemail.com//",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/elastic-email/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Loggly",
+			"x-api-slug": "loggly",
+			"description": "Log Analysis / Log Management by Loggly: the worlds most popular log analysis & monitoring in the cloud. Free trial. See why ??? of the Fortune 500 use us!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/611-loggly,-inc-.jpg",
+			"humanURL": "http://loggly.com",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/loggly/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Put.io",
+			"x-api-slug": "put-io",
+			"description": "Put.io: Stash your digital goods here.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/640-put-io.jpg",
+			"humanURL": "http://put.io/",
+			"baseURL": "https://api.put.io/v2///v2",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/put-io/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Atlassian",
+			"x-api-slug": "atlassian",
+			"description": "Millions of users globally rely on Atlassian products every day for improving software development, project management, collaboration, and code quality.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg",
+			"humanURL": "http://atlassian.com/",
+			"baseURL": "https:////",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/atlassian/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "BMC Software",
+			"x-api-slug": "bmc-software",
+			"description": "Transform your digital enterprise with BMC IT solutions. From mainframe to cloud to mobile, we???ll help you drive innovation and industrial efficiency.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/713-bmc-software.jpg",
+			"humanURL": "http://www.bmc.com",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/bmc-software/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dydra.com",
+			"x-api-slug": "dydra-com",
+			"description": "Cloud-hosted RDF & SPARQL database service by @datagraph. Request an invite to the beta program at http://t.co/Sat0oPE8fu",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/766-dydra-com.jpg",
+			"humanURL": "http://dydra.com",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/dydra-com/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Elastichosts",
+			"x-api-slug": "elastichosts",
+			"description": "ElasticHosts offers simple, flexible and cost-effective cloud servers with high performance, availability, and scalability for businesses worldwide.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/769-elastichosts.jpg",
+			"humanURL": "http://www.elastichosts.com",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/elastichosts/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Mailjet",
+			"x-api-slug": "mailjet",
+			"description": "Streamline your emailing and boost your sales with Mailjet. We serve all your email and SMS needs with one simple and powerful solution. You can try it now with 6000 emails/mo absolutely free. Sign up now, or read more about how we can help your busine...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/843-mailjet.jpg",
+			"humanURL": "http://mailjet.com",
+			"baseURL": "https://api.mailjet.com/v3/REST/",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/mailjet/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Progress Rollbase",
+			"x-api-slug": "progress-rollbase",
+			"description": "Progress offers the leading platform for developing and deploying mission-critical, cognitive-first business applications for competitive advantage.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/914-progress-rollbase.jpg",
+			"humanURL": "https://www.rollbase.com/integration.shtml",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/progress-rollbase/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TappIn",
+			"x-api-slug": "tappin",
+			"description": "TappIn revolutionizes your ability to securely and easily share and access digital files stores on a home or work computer from any web browser or smartphone.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/949-tappin.jpg",
+			"humanURL": "http://www.tappin.com/",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/tappin/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Internap",
+			"x-api-slug": "internap",
+			"description": "Internap Corporation (NASDAQ: INAP) is a leading technology provider of Internet infrastructure through both Colocation Business and Enterprise Services (including network connectivity, IP, bandwidth, and Managed Hosting), and Cloud Services (including...",
+			"image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png",
+			"humanURL": "http://www.internap.com/",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/internap/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Exosite",
+			"x-api-slug": "exosite",
+			"description": "Exosite is a leading Internet of Things (IoT) platform that makes it easy to build connected products, solutions, and businesses. Get started for free.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1006-exosite.jpg",
+			"humanURL": "http://exosite.com/",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/exosite/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Cloudinary",
+			"x-api-slug": "cloudinary",
+			"description": "Manage web and mobile media assets with the leading cloud service: image and video upload, storage, manipulation, optimization and digital asset management.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1039-cloudinary.jpg",
+			"humanURL": "http://cloudinary.com",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/cloudinary/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CloudPassage",
+			"x-api-slug": "cloudpassage",
+			"description": "Automated Security & Compliance for Containers, DevOps, DevSecOps, & Workload Visibility",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1040-cloudpassage.jpg",
+			"humanURL": "http://cloudpassage.com/",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/cloudpassage/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Yubico",
+			"x-api-slug": "yubico",
+			"description": "Get the YubiKey, the #1 security key, offering strong two factor authentication from industry leader Yubico.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1227-yubico.jpg",
+			"humanURL": "http://www.yubico.com/web-api-clients",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/yubico/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "OnApp",
+			"x-api-slug": "onapp",
+			"description": "A complete platform for public, private & hybrid cloud, CDN, storage & DR, with instant scale via a global cloud marketplace. VMware, Xen, KVM, EC2.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1230-onapp.jpg",
+			"humanURL": "http://onapp.com",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/onapp/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "IBM",
+			"x-api-slug": "ibm",
+			"description": "IBM is a global technology and innovation company headquartered in Armonk, NY. It is the largest technology and consulting employer in the world, with more than 400,000 employees serving clients in 170 countries. IBM offers a wide range of technology and consulting services; a broad portfolio of middleware for collaboration, predictive analytics, software development and systems management; and the worlds most advanced servers and supercomputers. Utilizing its business consulting, technology and R&amp;D expertise, IBM helps clients become smarter as the planet becomes more digitally interconnected.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1255-cloudant.jpg",
+			"humanURL": "https://ibm.com",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/ibm/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Filestack",
+			"x-api-slug": "filestack",
+			"description": "100,000+ applications utilize Filestack???s technology to leverage the world???s best file uploading speed, reliability and overall user experience.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1261-filestack.jpg",
+			"humanURL": "https://www.filestack.com",
+			"baseURL": "https://www.filepicker.io/api///api",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/filestack/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "nimbix",
+			"x-api-slug": "nimbix",
+			"description": "High Performance Computing and Supercomputing Platform",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1343-nimbix.jpg",
+			"humanURL": "http://www.nimbix.net/",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/nimbix/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ProfitBricks",
+			"x-api-slug": "profitbricks",
+			"description": "ProfitBricks - Cloud Computing 2.0 - is the cloud infrastructure-as-a-service (IaaS) company offering more speed and flexibility than any other cloud provider. Founded in 2010 by the previous co-founders of 1&amp;1 Internet, ProfitBricks has built the world&#8217;s first, true virtual datacenter, enabling users custom defined instances with live vertical scaling and class-leading double redundant cloud storage ??? all with simple and transparent minute-based billing. It also developed the first graphical Data Center Designer that makes the ProfitBricks Cloud Computing service the easiest to setup and maintain. Headquartered in Berlin, Germany and Boston, Mass., ProfitBricks can be found online at http://www.ProfitBricks.com.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1464_logo.jpg",
+			"humanURL": "http://www.profitbricks.co.uk/",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/profitbricks/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Mega",
+			"x-api-slug": "mega",
+			"description": "Mega provides a cloud file system at your fingertips, including cross-account folder sharing for easy online collaboration. The new Mega encrypts and decrypts your data transparently in your browser, on the fly. High-speed parallel batch uploading and downloading with resume capability are integral parts of the Mega service.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1543_logo.png",
+			"humanURL": "https://mega.co.nz",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/mega/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Drillster",
+			"x-api-slug": "drillster",
+			"description": "Drillster is an adaptive online learning and test application. Its unique algorithm ensures that users learn easy and retain information much better.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1562-drillster.jpg",
+			"humanURL": "http://www.drillster.com/info/api",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/drillster/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "FaxLogic",
+			"x-api-slug": "faxlogic",
+			"description": "FaxLogic provides Internet Fax solutions, including fax machine integration, email-to-fax, fax-to-email, web-fax and secure online archiving of all faxes sent and received. Access your faxes from anywhere using any Internet-connected device, including ...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1615-faxlogic.jpg",
+			"humanURL": "http://www.faxlogic.com",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/faxlogic/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Deveo",
+			"x-api-slug": "deveo",
+			"description": "Discover why enterprise teams powered by Perforce have freedom to innovate at unrivaled scale.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1833-deveo.jpg",
+			"humanURL": "https://deveo.com",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/deveo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dome9 Security",
+			"x-api-slug": "dome9-security",
+			"description": "Dome9 delivers full visibility, control and faster time to protection as organizations scale in AWS, Azure and Google Cloud environments. Get started now.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1834-dome9-security.jpg",
+			"humanURL": "http://dome9.com",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/dome9-security/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "MailWriter",
+			"x-api-slug": "mailwriter",
+			"description": "Het versturen van kaarten, brieven, rekeningen, rapporten en ander drukwerk was nog nooit zo gemakkelijk, kostenefficint en milieuvriendelijk. Met MailWriter verzendt u post via het internet en tegen het laagste tarief van Nederland.    Upload uw post...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1872-mailwriter.jpg",
+			"humanURL": "http://apidoc.mailwriter.com/",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/mailwriter/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Coconut",
+			"x-api-slug": "coconut",
+			"description": "Powerful and cost-effective video encoding platform - 50% cheaper than AWS and Zencoder - They trust us: Adobe, Tumblr, CloudApp, Classdojo, Sony...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1891-coconut.jpg",
+			"humanURL": "http://coconut.co/",
+			"baseURL": "https://heywatch.com//",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/coconut/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "StrongLoop",
+			"x-api-slug": "strongloop",
+			"description": "StrongLoop began in 2013 offering an open-source enterprise version of Node.js. Acquired by IBM in 2015, the StrongLoop team continues to build LoopBack, the open-source Node.js API Framework. IBM continues to contribute and support the StrongLoop comm...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2959-strongloop.jpg",
+			"humanURL": "http://strongloop.com/",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/strongloop/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Cloud Elements",
+			"x-api-slug": "cloud-elements",
+			"description": "Cloud Elements is the leading API integration platform for SaaS app providers and the digital enterprise. Turn integration into your competitive advantage.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9066-cloud-elements.jpg",
+			"humanURL": "http://www.cloud-elements.com/",
+			"baseURL": "://console.cloud-elements.com//elements/api-v2/hubs/crm",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/cloud-elements/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "DigitalOcean",
+			"x-api-slug": "digitalocean",
+			"description": "DigitalOcean is a simple and fast cloud hosting service built for developers. Customers can create a cloud server in 55 seconds, and pricing plans start at only $5 per month for 512MB of RAM, 20GB SSD, 1 CPU, and 1TB Transfer. Featuring a 99.99% Uptime SLA, DigitalOcean has servers located in New York, San Francisco, and Amsterdam. The DigitalOcean control panel interface is simple and intuitive, which power users can replicate on a larger scale with the company&rsquo;s API. DigitalOcean uses KVM virtualization and additionally hosts a library of helpful walkthroughs and tutorials that cover server configuration and optimization.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/DO_Logo_Horizontal_Black-3500c326.png",
+			"humanURL": "https://www.digitalocean.com",
+			"baseURL": "https://example.com//",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/digitalocean/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "WaveMaker",
+			"x-api-slug": "wavemaker",
+			"description": "Enterprise applications cant change overnight and modernization is simple things done right. The WaveMaker platform helps you to wrap around existing data and business logic, to develop and deliver modern applications that are future-proof, web-scale ...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11502-wavemaker,-inc-.jpg",
+			"humanURL": "http://www.wavemaker.com/",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/wavemaker/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Service Stack",
+			"x-api-slug": "service-stack",
+			"description": "Thoughtfully architected, obscenely fast,   thoroughly enjoyable web services for all",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11520-service-stack.jpg",
+			"humanURL": "https://servicestack.net",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/service-stack/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "OVH",
+			"x-api-slug": "ovh",
+			"description": "OVH offers a vast range of IT services for businesses and technophiles in particular. From web hosting to virtual data centers, dedicated servers and storage solutions, all our services benefit from continuous innovation and are regularly enriched with new features. Cloud infrastructures, dedicated hosting, virtual servers, domain names, e-commerce, storage and archives, OVH brings you the solutions you need develop all your IT projects.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ovh-logo.png",
+			"humanURL": "http://www.ovh.com/",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/ovh/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Cloudify",
+			"x-api-slug": "cloudify",
+			"description": "Cloudify is an open source application and network orchestration framework based on TOSCA, that supports hybrid cloud deployments.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11767-cloudify.jpg",
+			"humanURL": "http://getcloudify.org/",
+			"baseURL": "https:////http://localhost:8100",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/cloudify/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Apigility",
+			"x-api-slug": "apigility",
+			"description": "The worlds easiest way to create high-quality APIs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18593-apigility.jpg",
+			"humanURL": "https://apigility.org/",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/apigility/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "BitTitan",
+			"x-api-slug": "bittitan",
+			"description": "BitTitan is the IT change automation expert, delivering end-to-end solutions for migration and onboarding challenges. Our world renowned flagship product, MigrationWiz, is the leading cloud-based data migration service, enabling companies around the globe to easily migrate mailboxes and data to other systems and platforms. We remove the barriers to change, enabling companies of all sizes to consistently be current with their technology and have a choice, while eliminating the chaos, risk and costs associated with change. We strive for innovative solutions to complex problems.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/BitTitan_100.png",
+			"humanURL": "https://www.bittitan.com/",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/bittitan/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Uploadcare",
+			"x-api-slug": "uploadcare",
+			"description": "Beautiful HTML5 widget, API to manage files in cloud storage, smart and fast CDN to deliver them to your end users. Crop, resize and transform uploaded images using URL commands. Transfer entire HD videos, documents and huge sets of photos, upload media from different sources. With Uploadcare your users can upload files up to 5 TB in size.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/uploadcare-logo.png",
+			"humanURL": "https://uploadcare.com/",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/uploadcare/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "BinaryOps.io",
+			"x-api-slug": "binaryops-io",
+			"description": "Delivering API based data solutions for mobile & modern web applications.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18867-binaryops-io.jpg",
+			"humanURL": "http://www.binaryops.io/",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/binaryops-io/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Jexia",
+			"x-api-slug": "jexia",
+			"description": "JEXIA is the place to build APIs, deploy APPs and manage all your data streams.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18976-jexia.jpg",
+			"humanURL": "http://www.jexia.com/",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/jexia/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Hewlett Packard Enterprise (HPE)",
+			"x-api-slug": "hewlett-packard-enterprise-hpe",
+			"description": "We help customers use technology to slash the time it takes to turn ideas into value. In turn, they transform industries, markets and lives. Some of our customers run traditional IT environments. Most are transitioning to a secure, cloud-enabled, mobile-friendly infrastructure. Many rely on a combination of both. Wherever they are in that journey, we provide the technology and solutions to help them succeed.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/HPE-logo.png",
+			"humanURL": "http://HPE.com",
+			"baseURL": "https://deic02-hpe.hpeonesphere.com//rest",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/hewlett-packard-enterprise-hpe/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "VMWare",
+			"x-api-slug": "vmware",
+			"description": "At VMware, we believe that software has the power to unlock new opportunities for people and our planet. We look beyond the barriers of compromise to engineer new ways to make technologies work together seamlessly. Our software forms a digital foundation that powers the apps, services and experiences that are transforming the world.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/VMware_logo.png",
+			"humanURL": "http://vmware.com",
+			"baseURL": "https://example.com//suite-api/api",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/vmware/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Apimint",
+			"x-api-slug": "apimint",
+			"description": "APIMINT is an API lifecycle management tool. With our design first approach, all stake holders get a platform to collaborate and give feedback on API design and structure. We make sure your all your teams can easily agree and understand your APIs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Apimint_-_Rapidly_Prototype_APIs.png",
+			"humanURL": "https://www.apimint.com",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/apimint/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS CloudWatch",
+			"x-api-slug": "aws-cloudwatch",
+			"description": "Amazon CloudWatch is a monitoring service for AWS cloud resources and the applications you run on AWS. You can use Amazon CloudWatch to collect and track metrics, collect and monitor log files, set alarms, and automatically react to changes in your AWS resources. Amazon CloudWatch can monitor AWS resources such as Amazon EC2 instances, Amazon DynamoDB tables, and Amazon RDS DB instances, as well as custom metrics generated by your applications and services, and any log files your applications generate. You can use Amazon CloudWatch to gain system-wide visibility into resource utilization, application performance, and operational health. You can use these insights to react and keep your application running smoothly.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AmazonCloudWatch.png",
+			"humanURL": "https://aws.amazon.com/cloudwatch/",
+			"baseURL": ":///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/aws-cloudwatch/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS S3",
+			"x-api-slug": "aws-s3",
+			"description": "Amazon Simple Storage Service (Amazon S3) is object storage with a simple web service interface to store and retrieve any amount of data from anywhere on the web. It is designed to deliver 99.999999999% durability, and scale past trillions of objects worldwide.Customers use S3 as a bulk repository, or data lake, for analytics; backup &amp; recovery; disaster recovery; and serverless computing. Many cloud-native applications even use S3 as primary storage.Its simple to move large volumes of data into or out of S3 with Amazonscloud data migrationoptions. Once data is stored in Amazon S3, it can be automatically tiered into lower cost, longer-termcloud storageclasses like S3 Standard - Infrequent Access and Amazon Glacier for archiving.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AmazonS3.png",
+			"humanURL": "https://aws.amazon.com/s3/",
+			"baseURL": "https:////",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/aws-s3/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS CloudFront",
+			"x-api-slug": "aws-cloudfront",
+			"description": "Amazon CloudFront is a global content delivery network (CDN) service that accelerates delivery of your websites, APIs, video content or other web assets. It integrates with other Amazon Web Services products to give developers and businesses an easy way to accelerate content to end users with no minimum usage commitments.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AmazonCloudFront.png",
+			"humanURL": "https://aws.amazon.com/cloudfront/",
+			"baseURL": ":///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/aws-cloudfront/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS EC2 Systems Manager",
+			"x-api-slug": "aws-ec2-systems-manager",
+			"description": "Amazon EC2 Systems Manager is a management service that helps you automatically collect software inventory, apply OS patches, create system images, and configure Windows and Linux operating systems. These capabilities help you define and track system configurations, prevent drift, and maintain software compliance of your EC2 and on-premises configurations. By providing a management approach that is designed for the scale and agility of the cloud but extends into your on-premises data center, EC2 Systems Manager makes it easier for you to seamlessly bridge your existing infrastructure with AWS.EC2 Systems Manager is easy to use. Simply access EC2 Systems Manager from the EC2 Management Console, select the instances you want to manage, and define the management tasks you want to perform. EC2 Systems Manager is available now at no cost to manage both your EC2 and on-premises resources.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png",
+			"humanURL": "https://aws.amazon.com/ec2/systems-manager/",
+			"baseURL": ":///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/aws-ec2-systems-manager/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS CloudFormation",
+			"x-api-slug": "aws-cloudformation",
+			"description": "AWS CloudFormation gives developers and systems administrators an easy way to create and manage a collection of related AWS resources, provisioning and updating them in an orderly and predictable fashion.You can use AWS CloudFormations?sample templates?or create your own templates to describe the AWS resources, and any associated dependencies or runtime parameters, required to run your application. You do not need to figure out the order for provisioning AWS services or the subtleties of making those dependencies work. CloudFormation takes care of this for you. After the AWS resources are deployed, you can modify and update them in a controlled and predictable way, in effect applying version control to your AWS infrastructure the same way you do with your software. You can also visualize your templates as diagrams and edit them using a drag-and-drop interface with the?AWS CloudFormation Designer.You can deploy and update a template and its associated collection of resources (called a stack) by using the AWS Management Console, AWS Command Line Interface, or APIs. CloudFormation is available at no additional charge, and you pay only for the AWS resources needed to run your applications.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSCloudFormation.png",
+			"humanURL": "https://aws.amazon.com/cloudformation/",
+			"baseURL": ":///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/aws-cloudformation/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS CloudHSM",
+			"x-api-slug": "aws-cloudhsm",
+			"description": "The AWS CloudHSM service helps you meet corporate, contractual and regulatory compliance requirements for data security by using dedicated Hardware Security Module (HSM) appliances within the AWS cloud. With CloudHSM, you control the encryption keys and cryptographic operations performed by the HSM.AWS and AWS Marketplace partners offer a variety of solutions for protecting sensitive data within the AWS platform, but for applications and data subject to rigorous contractual or regulatory requirements for managing cryptographic keys, additional protection is sometimes necessary. Until now, your only option was to store the sensitive data (or the encryption keys protecting the sensitive data) in your on-premises datacenters. Unfortunately, this either prevented you from migrating these applications to the cloud or significantly slowed their performance. The AWS CloudHSM service allows you to protect your encryption keys within HSMs designed and validated to government standards for secure key management. You can securely generate, store, and manage the cryptographic keys used for data encryption such that they are accessible only by you. AWS CloudHSM helps you comply with strict key management requirements without sacrificing application performance.The AWS CloudHSM service works with Amazon Virtual Private Cloud (VPC). CloudHSM instances are provisioned inside your VPC with an IP address that you specify, providing simple and private network connectivity to your Amazon Elastic Compute Cloud (EC2) instances. Placing CloudHSM instances near your EC2 instances decreases network latency, which can improve application performance. AWS provides dedicated and exclusive (single tenant) access to CloudHSM instances, isolated from other AWS customers. Available in multiple Regions and Availability Zones (AZs), AWS CloudHSM allows you to add secure and durable key storage to your applications.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png",
+			"humanURL": "https://aws.amazon.com/cloudhsm/",
+			"baseURL": ":///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/aws-cloudhsm/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS WAF",
+			"x-api-slug": "aws-waf",
+			"description": "AWS WAF is a web application firewall that helps protect your webapplications from common web exploits that could affect applicationavailability, compromise security, or consume excessive resources. AWSWAF gives you control over which traffic to allow or block to your webapplications by defining customizable web security rules. You can use AWSWAF to create custom rules that block common attack patterns, such as SQLinjection or cross-site scripting, and rules that are designed for your specific application. New rules can be deployed within minutes, letting you respondquickly to changing traffic patterns. Also, AWS WAF includes a full-featuredAPI that you can use to automate the creation, deployment, and maintenanceof web security rules.With AWS WAF you pay only for what you use. AWS WAF pricing is based on how many rules you deploy and how many web requests your web application receives. There are no upfront commitments.You can deploy AWS WAF on either Amazon CloudFront as part of your CDN solution or the Application Load Balancer (ALB) that fronts your web servers or origin servers running on EC2.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSWAF.png",
+			"humanURL": "https://aws.amazon.com/waf/",
+			"baseURL": ":///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/aws-waf/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS CloudSearch",
+			"x-api-slug": "aws-cloudsearch",
+			"description": "Amazon CloudSearch is a managed service in the AWS Cloud that makes it simple and cost-effective to set up, manage, and scale a search solution for your website or application.Amazon CloudSearch supports 34 languages and popular search features such as highlighting, autocomplete, and geospatial search. For more information, see Benefits.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Application-Services_AmazonCloudSearch.png",
+			"humanURL": "https://aws.amazon.com/cloudsearch/",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/aws-cloudsearch/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Auto Scaling",
+			"x-api-slug": "aws-auto-scaling",
+			"description": "Auto Scaling helps you maintain application availability and allows you to scale yourAmazon EC2capacity up or down automatically according to conditions you define. You can use Auto Scaling to help ensure that you are running your desired number of Amazon EC2 instances. Auto Scaling can also automatically increase the number of Amazon EC2 instances during demand spikes to maintain performance and decrease capacity during lulls to reduce costs. Auto Scaling is well suited both to applications that have stable demand patterns or that experience hourly, daily, or weekly variability in usage.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2_AutoScaling.png",
+			"humanURL": "https://aws.amazon.com/autoscaling/",
+			"baseURL": ":///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/aws-auto-scaling/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Route 53",
+			"x-api-slug": "aws-route-53",
+			"description": "Amazon Route 53 is a highly available and scalable cloud Domain Name System (DNS) web service. It is designed to give developers and businesses an extremely reliable and cost effective way to route end users to Internet applications by translating names like www.example.com into the numeric IP addresses like 192.0.2.1 that computers use to connect to each other. Amazon Route 53 is fully compliant with IPv6 as well.Amazon Route 53 effectively connects user requests to infrastructure running in AWS &ndash; such as Amazon EC2 instances, Elastic Load Balancing load balancers, or Amazon S3 buckets &ndash; and can also be used to route users to infrastructure outside of AWS. You can use Amazon Route 53 to configure DNS health checks to route traffic to healthy endpoints or to independently monitor the health of your application and its endpoints. Amazon Route 53 Traffic Flow makes it easy for you to manage traffic globally through a variety of routing types, including Latency Based Routing, Geo DNS, and Weighted Round Robin&mdash;all of which can be combined with DNS Failover in order to enable a variety of low-latency, fault-tolerant architectures. Using Amazon Route 53 Traffic Flow&rsquo;s simple visual editor, you can easily manage how your end-users are routed to your application&rsquo;s endpoints&mdash;whether in a single AWS region or distributed around the globe. Amazon Route 53 also offers Domain Name Registration &ndash; you can purchase and manage domain names such as example.com and Amazon Route 53 will automatically configure DNS settings for your domains.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AmazonRoute53.png",
+			"humanURL": "https://aws.amazon.com/route53/",
+			"baseURL": ":///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/aws-route-53/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google App Engine",
+			"x-api-slug": "google-app-engine",
+			"description": "Build modern web and mobile applications on an open cloud platform: bring your own language runtimes, frameworks, and third party libraries. Google App Engine is a fully managed platform that completely abstracts away infrastructure so you focus only on code. Go from zero to planet-scale and see why some of today&rsquo;s most successful companies power their applications on App Engine.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-app-engine-icon.png",
+			"humanURL": "https://cloud.google.com/appengine/",
+			"baseURL": "://appengine.googleapis.com//",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/google-app-engine/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Biquery",
+			"x-api-slug": "google-biquery",
+			"description": "BigQuery is Googles fully managed, petabyte scale, low cost enterprise data warehouse for analytics. BigQuery is serverless. There is no infrastructure to manage and you dont need a database administrator, so you can focus on analyzing data to find meaningful insights using familiar SQL. BigQuery is a powerful Big Data analytics platform used by all types of organizations, from startups to Fortune 500 companies.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/BigQuery_500px.png",
+			"humanURL": "https://cloud.google.com/bigquery/",
+			"baseURL": "://www.googleapis.com//bigquery/v2",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/google-biquery/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Compute Engine",
+			"x-api-slug": "google-compute-engine",
+			"description": "Google Compute Engine delivers virtual machines running in Googles innovative data centers and worldwide fiber network. Compute Engines tooling and workflow support enable scaling from single instances to global, load-balanced cloud computing.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Google_Compute_Engine_logo.png",
+			"humanURL": "https://cloud.google.com/compute/",
+			"baseURL": "://www.googleapis.com//compute/v1/projects",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/google-compute-engine/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Cloud Deployment Manager",
+			"x-api-slug": "google-cloud-deployment-manager",
+			"description": "Google Cloud Deployment Manager allows you to specify all the resources needed for your application in a declarative format using yaml. You can also use Python or Jinja2 templates to parameterize the configuration and allow reuse of common deployment paradigms such as a load balanced, auto-scaled instance group. Treat your configuration as code and perform repeatable deployments.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/repeatable-deployment-process.png",
+			"humanURL": "https://cloud.google.com/deployment-manager/",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/google-cloud-deployment-manager/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Cloud Storage",
+			"x-api-slug": "google-cloud-storage",
+			"description": "Google Cloud Storage is unified object storage for developers and enterprises, from live data serving to data analytics/ML to data archiving. Google Cloud Storage allows world-wide storage and retrieval of any amount of data at any time. You can use Google Cloud Storage for a range of scenarios including serving website content, storing data for archival and disaster recovery, or distributing large data objects to users via direct download.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-storage-unified-object-storage-2x.png",
+			"humanURL": "https://cloud.google.com/storage/",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/google-cloud-storage/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Azure Monitor",
+			"x-api-slug": "azure-monitor",
+			"description": "Autoscale is a built-in feature of Cloud Services, Mobile Services, Virtual Machines, and Websites that helps applications perform their best when demand changes. Of course, performance means different things for different applications. Some apps are CPU-bound, others memory-bound. For example, you could have a web app that handles millions of requests during the day and none at night. Autoscale can scale your service by any of these&mdash;or by a custom metric you define.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/manage-monitoring-data.png",
+			"humanURL": "https://azure.microsoft.com/en-us/services/monitor/",
+			"baseURL": "://management.azure.com//",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/azure-monitor/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Stride",
+			"x-api-slug": "stride",
+			"description": "Stride is a cloud-based team business communication and collaboration tool, launched by Atlassian to replace the cloud-based version of HipChat. Stride software is available to download onto computers running Windows, Mac or Linux, as well as Android, iOS smartphones, and tablets",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28142-stride.jpg",
+			"humanURL": "https://www.stride.com/",
+			"baseURL": "https://api.atlassian.com//",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/stride/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "OVH US",
+			"x-api-slug": "ovh-us",
+			"description": "OVH is a global, hyper-scale cloud provider delivering best-in-class hosted private cloud, public cloud, and dedicated server solutions. We just opened our first U.S. data center; learn more about our limited time introductory offer!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28179-ovhcloud-com.jpg",
+			"humanURL": "https://ovhcloud.com",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/ovh-us/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Mattermost",
+			"x-api-slug": "mattermost",
+			"description": "Open source, private cloud Slack-alternative, Workplace messaging for web, PCs and phones. MIT-licensed. Hundreds of contributors. 14 languages. Secure, configurable, and scalable from teams to the enterprise.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mattermost-logo.png",
+			"humanURL": "https://mattermost.com",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/mattermost/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Avaza",
+			"x-api-slug": "avaza",
+			"description": "Avaza is a beautiful online software suite with modules for Project Management, Timesheets, Expenses &amp; Invoicing. Access from anywhere, with any device. Avaza is the leading all-in-one software for running client focused businesses. Avaza allows businesses of all sizes to more easily and effectively manage team projects, time tracking, expense reporting, quoting &amp; invoicing. It can be accessed simply via a web browser from anywhere in the world on any device.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28373-avaza.jpg",
+			"humanURL": "https://www.avaza.com",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/avaza/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Qstack",
+			"x-api-slug": "qstack",
+			"description": "Qstack is a comprehensive cloud management platform with Kubernetes-based container &amp; application orchestration layer with native hybrid capabilities.Qstack&trade; is a cloud infrastructure solution, a turnkey and easy-to-use package which empowers companies to capitalize on an enterprise-ready, brandable and fully customizable cloud. Qstack includes a unified, customizable self-service web portal for users and administrators, that allows for the management of multiple infrastructure locations and hypervisors from a single pane of glass.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28671-www-qstack-com.jpg",
+			"humanURL": "https://www.qstack.com",
+			"baseURL": "https:///",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/qstack/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Predix",
+			"x-api-slug": "predix",
+			"description": "Predix (IoT PaaS) helps you develop apps that connect people with industrial machines through analytics and data for better business outcomes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png",
+			"humanURL": "https://www.predix.io",
+			"baseURL": "https:////v1",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/predix/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Kentico Cloud",
+			"x-api-slug": "kentico-cloud",
+			"description": "Kentico Cloud is the #1 CMS that enables digital teams to collaborate quickly to create engaging personalized experiences across any device. Free 30-day trial!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28870-kenticocloud-com.jpg",
+			"humanURL": "https://kenticocloud.com/",
+			"baseURL": "https://deliver.kenticocloud.com//",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/kentico-cloud/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Plentymarkets",
+			"x-api-slug": "plentymarkets",
+			"description": "plentymarkets is an all-in-one e-commerce ERP solution, which combines a comprehensive stock management system with a versatile shop system and effortless multichannel sales. Thanks to comprehensive functions and interfaces that include all steps of the e-commerce value chain, you can use the cloud based software to completely automate all of your e-business processes as well as your companys own individual processes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png",
+			"humanURL": "http://www.plentymarkets.co.uk",
+			"baseURL": "https://example.com//",
+			"tags": "Cloud",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/plentymarkets/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Cloud",
+	"include": [
+		{
+			"name": "Deltacloud",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/deltacloud/apis.yaml"
+		},
+		{
+			"name": "Restlet",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/restlet/apis.yaml"
+		},
+		{
+			"name": "Twilio",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/twilio/apis.yaml"
+		},
+		{
+			"name": "Apple",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/apple/apis.yaml"
+		},
+		{
+			"name": "AT&T Dev Program",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/att-dev-program/apis.yaml"
+		},
+		{
+			"name": "Diffbot",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/diffbot/apis.yaml"
+		},
+		{
+			"name": "Heroku",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/heroku/apis.yaml"
+		},
+		{
+			"name": "HP",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/hp/apis.yaml"
+		},
+		{
+			"name": "Iron",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/iron/apis.yaml"
+		},
+		{
+			"name": "Rackspace",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/rackspace/apis.yaml"
+		},
+		{
+			"name": "Tropo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/tropo/apis.yaml"
+		},
+		{
+			"name": "46elks",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/46elks/apis.yaml"
+		},
+		{
+			"name": "Aculab Cloud",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/aculab-cloud/apis.yaml"
+		},
+		{
+			"name": "SugarSync",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/sugarsync/apis.yaml"
+		},
+		{
+			"name": "Terremark vCloud Express",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/terremark-vcloud-express/apis.yaml"
+		},
+		{
+			"name": "CloudApp",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/cloudapp/apis.yaml"
+		},
+		{
+			"name": "Elastic Email",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/elastic-email/apis.yaml"
+		},
+		{
+			"name": "Loggly",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/loggly/apis.yaml"
+		},
+		{
+			"name": "Put.io",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/put-io/apis.yaml"
+		},
+		{
+			"name": "Atlassian",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/atlassian/apis.yaml"
+		},
+		{
+			"name": "BMC Software",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/bmc-software/apis.yaml"
+		},
+		{
+			"name": "Dydra.com",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/dydra-com/apis.yaml"
+		},
+		{
+			"name": "Elastichosts",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/elastichosts/apis.yaml"
+		},
+		{
+			"name": "Mailjet",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/mailjet/apis.yaml"
+		},
+		{
+			"name": "Progress Rollbase",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/progress-rollbase/apis.yaml"
+		},
+		{
+			"name": "TappIn",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/tappin/apis.yaml"
+		},
+		{
+			"name": "Internap",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/internap/apis.yaml"
+		},
+		{
+			"name": "Exosite",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/exosite/apis.yaml"
+		},
+		{
+			"name": "Cloudinary",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/cloudinary/apis.yaml"
+		},
+		{
+			"name": "CloudPassage",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/cloudpassage/apis.yaml"
+		},
+		{
+			"name": "Yubico",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/yubico/apis.yaml"
+		},
+		{
+			"name": "OnApp",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/onapp/apis.yaml"
+		},
+		{
+			"name": "IBM",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/ibm/apis.yaml"
+		},
+		{
+			"name": "Filestack",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/filestack/apis.yaml"
+		},
+		{
+			"name": "nimbix",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/nimbix/apis.yaml"
+		},
+		{
+			"name": "ProfitBricks",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/profitbricks/apis.yaml"
+		},
+		{
+			"name": "Mega",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/mega/apis.yaml"
+		},
+		{
+			"name": "Drillster",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/drillster/apis.yaml"
+		},
+		{
+			"name": "FaxLogic",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/faxlogic/apis.yaml"
+		},
+		{
+			"name": "Deveo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/deveo/apis.yaml"
+		},
+		{
+			"name": "Dome9 Security",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/dome9-security/apis.yaml"
+		},
+		{
+			"name": "MailWriter",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/mailwriter/apis.yaml"
+		},
+		{
+			"name": "Coconut",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/coconut/apis.yaml"
+		},
+		{
+			"name": "StrongLoop",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/strongloop/apis.yaml"
+		},
+		{
+			"name": "Cloud Elements",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/cloud-elements/apis.yaml"
+		},
+		{
+			"name": "DigitalOcean",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/digitalocean/apis.yaml"
+		},
+		{
+			"name": "WaveMaker",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/wavemaker/apis.yaml"
+		},
+		{
+			"name": "Service Stack",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/service-stack/apis.yaml"
+		},
+		{
+			"name": "OVH",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/ovh/apis.yaml"
+		},
+		{
+			"name": "Cloudify",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/cloudify/apis.yaml"
+		},
+		{
+			"name": "Apigility",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/apigility/apis.yaml"
+		},
+		{
+			"name": "BitTitan",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/bittitan/apis.yaml"
+		},
+		{
+			"name": "Uploadcare",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/uploadcare/apis.yaml"
+		},
+		{
+			"name": "BinaryOps.io",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/binaryops-io/apis.yaml"
+		},
+		{
+			"name": "Jexia",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/jexia/apis.yaml"
+		},
+		{
+			"name": "Hewlett Packard Enterprise (HPE)",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/hewlett-packard-enterprise-hpe/apis.yaml"
+		},
+		{
+			"name": "VMWare",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/vmware/apis.yaml"
+		},
+		{
+			"name": "Apimint",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/apimint/apis.yaml"
+		},
+		{
+			"name": "AWS CloudWatch",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/aws-cloudwatch/apis.yaml"
+		},
+		{
+			"name": "AWS S3",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/aws-s3/apis.yaml"
+		},
+		{
+			"name": "AWS CloudFront",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/aws-cloudfront/apis.yaml"
+		},
+		{
+			"name": "AWS EC2 Systems Manager",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/aws-ec2-systems-manager/apis.yaml"
+		},
+		{
+			"name": "AWS CloudFormation",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/aws-cloudformation/apis.yaml"
+		},
+		{
+			"name": "AWS CloudHSM",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/aws-cloudhsm/apis.yaml"
+		},
+		{
+			"name": "AWS WAF",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/aws-waf/apis.yaml"
+		},
+		{
+			"name": "AWS CloudSearch",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/aws-cloudsearch/apis.yaml"
+		},
+		{
+			"name": "AWS Auto Scaling",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/aws-auto-scaling/apis.yaml"
+		},
+		{
+			"name": "AWS Route 53",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/aws-route-53/apis.yaml"
+		},
+		{
+			"name": "Google App Engine",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/google-app-engine/apis.yaml"
+		},
+		{
+			"name": "Google Biquery",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/google-biquery/apis.yaml"
+		},
+		{
+			"name": "Google Compute Engine",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/google-compute-engine/apis.yaml"
+		},
+		{
+			"name": "Google Cloud Deployment Manager",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/google-cloud-deployment-manager/apis.yaml"
+		},
+		{
+			"name": "Google Cloud Storage",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/google-cloud-storage/apis.yaml"
+		},
+		{
+			"name": "Azure Monitor",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/azure-monitor/apis.yaml"
+		},
+		{
+			"name": "Stride",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/stride/apis.yaml"
+		},
+		{
+			"name": "OVH US",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/ovh-us/apis.yaml"
+		},
+		{
+			"name": "Mattermost",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/mattermost/apis.yaml"
+		},
+		{
+			"name": "Avaza",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/avaza/apis.yaml"
+		},
+		{
+			"name": "Qstack",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/qstack/apis.yaml"
+		},
+		{
+			"name": "Predix",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/predix/apis.yaml"
+		},
+		{
+			"name": "Kentico Cloud",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/kentico-cloud/apis.yaml"
+		},
+		{
+			"name": "Plentymarkets",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/plentymarkets/apis.yaml"
+		}
+	]
+}

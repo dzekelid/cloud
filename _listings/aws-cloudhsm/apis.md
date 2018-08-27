@@ -28,11 +28,60 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "10"
 x-alexaRank: "0"
 tags: Cloud
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/aws-cloudhsm/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: AWS CloudHSM API - Add Tags To Resource
+  x-api-slug: actionaddtagstoresource-get
+  description: Adds or overwrites one or more tags for the specified AWS CloudHSM
+    resource.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/aws-cloudhsm/actionaddtagstoresource-get-openapi.md
+- name: AWS CloudHSM API - List Available Zones
+  x-api-slug: actionlistavailablezones-get
+  description: Lists the Availability Zones that have available AWS CloudHSM capacity.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/aws-cloudhsm/actionlistavailablezones-get-openapi.md
+- name: AWS CloudHSM API - List Tags For Resource
+  x-api-slug: actionlisttagsforresource-get
+  description: Returns a list of all tags for the specified AWS CloudHSM resource.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/aws-cloudhsm/actionlisttagsforresource-get-openapi.md
+- name: AWS CloudHSM API - Remove Tags From Resource
+  x-api-slug: actionremovetagsfromresource-get
+  description: Removes one or more tags from the specified AWS CloudHSM resource.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
+  humanURL: https://aws.amazon.com/cloudhsm/
+  baseURL: :///
+  tags: Amazon Web Services, Contracts, Regulations, Management, Encryption, Stack
+    Network, API Service Provider, API Service Provider, API Provider, Profiles, Relative
+    Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/cloud/master/_listings/aws-cloudhsm/actionremovetagsfromresource-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://aws.cloudfront.api.gallery.streamdata.io
